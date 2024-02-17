@@ -1,0 +1,2 @@
+Insert into TODO (id,description,done,target_date,username)
+values(1001,'learn java',false,CURRENT_DATE(),'hrithik');
